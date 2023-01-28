@@ -1,0 +1,2 @@
+ - Sometimes test cases only has the answer.(A)
+ - Observing the test cases helps in forming the approach. So take more time in observing the test cases and coming up with a solution.
